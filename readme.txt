@@ -6,3 +6,5 @@ Git is free software.
 three
 
 hello 
+
+Creating a new branch is quick.
